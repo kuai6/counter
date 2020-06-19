@@ -1,4 +1,4 @@
-# the Counter service 
+# The Counter service 
 
 ### About this service 
 This service increments internal value per each http get request with Redis as backend storage. 
